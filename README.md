@@ -1,5 +1,5 @@
 # Microsoft-Access-Projects
-I included one comprehensive capstone project and one final project in this repository.
+I wanted to include one comprehensive capstone project and one final project in this repository. However, Github is telling me that the files are too large to be uploaded.
 These are Microsoft Capstone Projects from LIS 470. They demonstrate my use of Microsoft Access to keep track of warehouse inventories.
 
 I designed the forms and the interface to make them look attractive.
